@@ -1,4 +1,5 @@
 == 2.1.2 ==
+[commits](https://github.com/armetiz/LeezyPheanstalkBundle/compare/2.1.1...2.1.2)
 * Add KickJobCommand
 * Fix error management on command
 
